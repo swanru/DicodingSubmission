@@ -1,2 +1,2 @@
-# DicodingSubmission
+# Dicoding Submission
 Dicoding Submission
